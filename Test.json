@@ -1,0 +1,316 @@
+{
+  "AN": {
+    "dates": {
+      "2020-03-26": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
+      "2020-03-27": {
+        "delta": {
+          "confirmed": 5
+        },
+        "delta7": {
+          "confirmed": 6
+        },
+        "total": {
+          "confirmed": 6
+        }
+      },
+      "2020-03-28": {
+        "delta": {
+          "confirmed": 3
+        },
+        "delta7": {
+          "confirmed": 9
+        },
+        "total": {
+          "confirmed": 9
+        }
+      },
+      "2020-03-29": {
+        "delta7": {
+          "confirmed": 9
+        },
+        "total": {
+          "confirmed": 9
+        }
+      },
+      "2020-03-30": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 10
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-03-31": {
+        "delta7": {
+          "confirmed": 10
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-01": {
+        "delta7": {
+          "confirmed": 10
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-02": {
+        "delta7": {
+          "confirmed": 9
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-03": {
+        "delta7": {
+          "confirmed": 4
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-04": {
+        "delta7": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-05": {
+        "delta7": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-06": {
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-07": {
+        "total": {
+          "confirmed": 10
+        }
+      },
+      "2020-04-08": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 11
+        }
+      },
+      "2020-04-09": {
+        "delta": {
+          "recovered": 10
+        },
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-10": {
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-11": {
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-12": {
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-13": {
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-14": {
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-15": {
+        "delta7": {
+          "recovered": 10
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 10
+        }
+      },
+      "2020-04-16": {
+        "delta": {
+          "recovered": 1
+        },
+        "delta7": {
+          "recovered": 1
+        },
+        "total": {
+          "confirmed": 11,
+          "recovered": 11
+        }
+      },
+      "2020-04-17": {
+        "delta": {
+          "confirmed": 1,
+          "tested": 1403
+        },
+        "delta7": {
+          "confirmed": 1,
+          "recovered": 1,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 12,
+          "recovered": 11,
+          "tested": 1403
+        }
+      },
+      "2020-04-18": {
+        "delta": {
+          "confirmed": 2
+        },
+        "delta7": {
+          "confirmed": 3,
+          "recovered": 1,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 14,
+          "recovered": 11,
+          "tested": 1403
+        }
+      },
+      "2020-04-19": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 4,
+          "recovered": 1,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 15,
+          "recovered": 11,
+          "tested": 1403
+        }
+      },
+      "2020-04-20": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 5,
+          "recovered": 1,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 16,
+          "recovered": 11,
+          "tested": 1403
+        }
+      },
+      "2020-04-21": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 6,
+          "recovered": 1,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 17,
+          "recovered": 11,
+          "tested": 1403
+        }
+      },
+      "2020-04-22": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 7,
+          "recovered": 1,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 18,
+          "recovered": 11,
+          "tested": 1403
+        }
+      },
+      "2020-04-23": {
+        "delta": {
+          "confirmed": 4
+        },
+        "delta7": {
+          "confirmed": 11,
+          "tested": 1403
+        },
+        "total": {
+          "confirmed": 22,
+          "recovered": 11,
+          "tested": 1403
+        }
+      }
+    }
+  }
+}
