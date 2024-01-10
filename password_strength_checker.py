@@ -1,4 +1,10 @@
-#print((lambda x,y:x*y)(5,4))
+# print((lambda x,y:x*y)(5,4))
+# Conditions to be fulfilled are:
+# Minimum 9 characters and maximum 20 characters.
+# Cannot be a newline or a space
+# There should not be three or more repeating characters in a row.
+# The same string pattern(minimum of two character length) should not be repeating.
+
 import re
 
 def is_strong_password(password):
